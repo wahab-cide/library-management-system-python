@@ -2,7 +2,7 @@
 
 This repository contains a simple Library Management System built in Python. The project demonstrates fundamental Python skills, including Object-Oriented Programming (OOP), looping statements, conditional statements, and other basic Python concepts.
 
-## 🛠️ Features
+## Features
 
 - **Add New Books**: Easily add books to the library's catalog.
 - **Issue Books**: Manage the issuance of books to members.
@@ -11,7 +11,7 @@ This repository contains a simple Library Management System built in Python. The
 - **View All Books**: Display all books available in the library.
 - **Remove Books**: Remove books from the catalog when necessary eg whennlending.
 
-## 🧠 Python Concepts Demonstrated
+## Python Concepts Demonstrated
 
 - **Object-Oriented Programming (OOP)**: Classes, objects, and methods.
 - **Looping Statements**: `for` loops for iteration.
